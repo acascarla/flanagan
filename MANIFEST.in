@@ -1,0 +1,2 @@
+recursive-include flanagan/templates *
+recursive-include flanagan/static *
